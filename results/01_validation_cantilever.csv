@@ -1,0 +1,5 @@
+element_size_mm,elements,dofs,tip_deflection_mm,sigma_xx_midspan_MPa,deflection_error_%,stress_error_%,runtime_s
+8,135,616,0.2512,53.42,-0.41,-1.08,0.014
+4,544,2326,0.2514,53.65,-0.34,-0.65,0.031
+2,2206,9134,0.2514,53.81,-0.31,-0.34,0.121
+1,8817,35884,0.2514,53.91,-0.3,-0.17,0.841

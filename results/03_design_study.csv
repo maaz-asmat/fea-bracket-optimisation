@@ -1,0 +1,6 @@
+variant,fillet_mm,thickness_mm,elements,peak_von_mises_MPa,stress_vs_baseline_%,tip_deflection_mm,deflection_vs_baseline_%,mass_kg,mass_vs_baseline_%,safety_factor_vs_yield
+A  r = 2 mm,2.0,10.0,54376,210.3,41.6,0.1917,3.8,0.3141,-0.1,1.12
+B  r = 5 mm (baseline),5.0,10.0,10275,148.5,0.0,0.1846,0.0,0.3144,0.0,1.58
+C  r = 10 mm,10.0,10.0,10459,116.9,-21.3,0.1721,-6.8,0.3157,0.4,2.01
+D  r = 15 mm,15.0,10.0,19174,101.7,-31.5,0.1592,-13.8,0.3178,1.1,2.31
+"E  r = 10 mm, t = 8 mm",10.0,8.0,10459,146.2,-1.6,0.2151,16.5,0.2525,-19.7,1.61
